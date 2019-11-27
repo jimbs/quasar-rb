@@ -7,9 +7,9 @@
           <q-btn color="secondary" icon="add_circle_outline" dense label="Create Batch" style="margin-left: 10px"/>
           <q-btn color="secondary" icon="add_circle" dense label="Add Order" style="margin-left: 10px"/>
           <q-toolbar-title></q-toolbar-title>
-          <label disabled>Thu, 07 Nov 2019 02:11:11 GMT</label>
+          <label class="unselectable">Thu, 07 Nov 2019 02:11:11 GMT</label>
             <q-btn flat text-color="white" style="margin-left: 10px; text-transform: none" >Balmori, Jimbo
-              <q-avatar rounded color="secondary" style="margin-left: 10px;" text-color="white">J</q-avatar>
+              <q-avatar rounded class="honda" style="margin-left: 10px;" text-color="white">J</q-avatar>
             </q-btn>
 
       </q-toolbar>
